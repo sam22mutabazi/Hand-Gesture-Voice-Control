@@ -1,0 +1,6 @@
+streamlit
+opencv-contrib-python-headless
+mediapipe
+SpeechRecognition
+pyttsx3
+numpy
